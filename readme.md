@@ -1,6 +1,6 @@
 
 # AudiorecorderUI Program
-The "AudiorecorderUI" is a recording program designed with Tkinter. It allows users to record an MP3 stream for up to 200 seconds. The program's user interface (UI) is defined using constants, and Tkinter and Style are initialized and declared.
+The "AudiorecorderUI" is a recording program designed with Tkinter. It allows users to record an MP3 stream for up to 200 seconds.
 
 ## Program Features
 - Record an MP3 stream for up to 200 seconds
